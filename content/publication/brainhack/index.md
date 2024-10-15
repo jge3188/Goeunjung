@@ -1,26 +1,27 @@
 ---
-abstract: This study aims to predict the spatio-temporal change of the urban sprawl in Jeju isalnd. This study consists of three stages. First, we construct 2009 and 2019 social-environment data for 2009 and 2019, which are the basis for the sprawl prediction. Second, the Neighborhood test model (ARD) is used to select a suitable Neighborhood. Using the selected Neighborhood and 2009 predictor variables, we predict 2019 and 2029 landcover map. Third, after measuring and classifying the sprawl between 2009 to 2019 and 2019 to 2029, the spatiotemporal changes are analyzed. The result show that, Leapfrog and Edge-expansion appeared noticeably due to large-scale development between 2009 and 2019, and in contrast to this, there are more Infilling in 2029. This study is meaningful in that it can be used as a new basic data for preventing ineffective development and efficient management of the land by predicting spatio-temporal changes of urban sprawl and analyze by type using the Cellular Automata (CA) based SIMLANDER model for the first time in Korea.
+abstract: This study analyzes the spatiotemporal changes of bus network clusters before and after COVID-19 with the purpose of exploring areas with high potential for the spread of infectious diseases. As the analysis method, the   statistic was used, which is an extension of the Getis and Ord   statistic to spatial network framework. Since statistical calculation is applied for individual flows in the bus transportation network, a parallel computing method and a supercomputer hardware are applied for the large-scale operations. The result is as follows: First, bus flows in networks are concentrated in limited places during COVID-19. Second, during COVID-19, bus uses to residential and agricultural areas increased, and bus uses to commercial and transportation areas decreased. Third, unlike other CBD clusters, no significant changes were observed in bus flow in Gangnam before and during COVID-19. This study presents the first analysis and identification of bus network cluster before and during COVID-19 in Korea.
 
 authors:
-- The Brainhack Community
-date: "2021-06-02T00:00:00Z"
-doi: "https://doi.org/10.1016/j.neuron.2021.04.001"
-featured: false
+- admin
+- Youngho Kim
+date: "2022-04-02T00:00:00Z"
+doi: "https://doi.org/10.16879/jkca.2022.22.1.035"
+featured: true
 image:
   caption:
   focal_point: ""
   preview_only: false
 projects:
-publication: 'Neuron'
-publication_short: "Neuron"
+publication: 'Korean Cartographic Association'
+publication_short: "Korean Cartographic Association"
 publication_types:
 - "2"
-publishDate: "2021-06-02T00:00:00Z"
+publishDate: "2022-04-02T00:00:00Z"
 slides:
 summary:
 tags:
 - published
-title: "Brainhack: Developing a culture of open, inclusive, community-driven neuroscience"
+title: "A Spatio-temporal Pattern Analysis of Seoul Bus Use After COVID-19 Outbreaks Using Big Data-based Network Cluster Analysis"
 url_code: ""
 url_dataset: ""
 url_pdf: ""

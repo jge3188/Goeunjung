@@ -9,7 +9,7 @@ featured: true
 image:
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: flase
 # links:
 # - icon: github
 #   icon_pack: fab
@@ -24,7 +24,7 @@ image:
 projects:
 - 
 publication: "JAKG (Journal of the Association of Korean Geographers)"
-publication_short: "JAKG (Journal of the Association of Korean Geographers)"
+publication_short: "JAKG"
 publication_types: 
 - "2"
 publishDate: "2021-04-24T00:00:00Z"

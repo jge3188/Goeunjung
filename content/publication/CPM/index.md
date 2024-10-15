@@ -1,30 +1,32 @@
 ---
-abstract: This study aims to predict the spatio-temporal change of the urban sprawl in Jeju isalnd. This study consists of three stages. First, we construct 2009 and 2019 social-environment data for 2009 and 2019, which are the basis for the sprawl prediction. Second, the Neighborhood test model (ARD) is used to select a suitable Neighborhood. Using the selected Neighborhood and 2009 predictor variables, we predict 2019 and 2029 landcover map. Third, after measuring and classifying the sprawl between 2009 to 2019 and 2019 to 2029, the spatiotemporal changes are analyzed. The result show that, Leapfrog and Edge-expansion appeared noticeably due to large-scale development between 2009 and 2019, and in contrast to this, there are more Infilling in 2029. This study is meaningful in that it can be used as a new basic data for preventing ineffective development and efficient management of the land by predicting spatio-temporal changes of urban sprawl and analyze by type using the Cellular Automata (CA) based SIMLANDER model for the first time in Korea..
+abstract: This study examined the correlation between air pollution and traffic using nationwide traffic estimates and compared the correlation with road density, which is used as a traffic surrogates. The research data used VKT (Vehicle Kilometers Traveled) based on traffic volume estimated using an Equilibrium Assignment Model and road density calculated using road network data. As air pollutants, we used the annual average concentrations of PM10 and NO2, which reported to be major emission sources from traffic. Then, the Pearson correlation coefficient was calculated between the annual average concentration of monitoring stations and the sum of VKT and road density of the buffer by the monitoring stations. The results showed that NO2 more highly correlated with VKT than road density, and more highly correlated with road density using only major roads. This study is meaningful in that it is the first to confirm correlation traffic volume estimated at a national scale correlation with air pollutants.
+
 authors:
-- Melanie Lohrberg
-- "..."
 - admin
-- "..."
-- Christine Stadelmann
-- Alonso Barrantes-Freer
-date: "2021-01-12T00:00:00Z"
-doi: "https://doi.org/10.1186/s40478-020-01105-2"
-featured: false
+- Changwoo Jeon
+- Insang Song
+- Youngguk Kim
+- Mugi Mo
+- Minjun Park
+- Sun-Young KIM
+
+date: ""
+doi: ""
+featured: true
 image:
   caption:
   focal_point: ""
   preview_only: false
 projects:
-publication: 'Acta Neuropathologica Communications'
-publication_short: "Acta Neuropathol Commun"
+publication: ''
+publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-01-12T00:00:00Z"
+publishDate: ""
 slides:
 summary:
 tags:
-- published
-title: 'Lack of astrocytes hinders parenchymal oligodendrocyte precursor cells from reaching a myelinating state in osmolyte-induced demyelination'
+title: "[Manuscript in Preparation] Correlation of Air Pollution and Traffic Volume: Comparison between Road Density and Traffic Volume Estimates"
 url_code: ""
 url_dataset: ""
 url_pdf: ""

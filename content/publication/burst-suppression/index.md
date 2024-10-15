@@ -25,14 +25,14 @@ projects:
 - 
 publication: "eLife"
 publication_short: "eLife"
-publication_types:
+publication_types: 
 - "2"
 publishDate: "2021-04-24T00:00:00Z"
 slides: 
 summary: 
 tags:
 - published
-title: Modeling of Spatio-temporal changes of Urban Sprawl in Jeju-island: Using CA (Cellular Automata) and ARD (Automatic Rule Detection)
+title : "Modeling of Spatio-temporal changes of Urban Sprawl in Jeju-island: Using CA (Cellular Automata) and ARD (Automatic Rule Detection)"
 url_code: ""
 url_dataset: ""
 url_pdf: "http://koreangeography.or.kr/data/file/journal06/2469267796_wc6BtJRy_942749c8e98bb9df0ca0faad88a6c831856cd0b1.pdf"

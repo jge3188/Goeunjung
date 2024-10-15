@@ -1,53 +1,48 @@
 ---
 authors:
 - admin
-bio: medical doctor turned neuroscientist and image analyst.
+bio: 
 education:
   courses:
-  - course: PhD in Neuroimaging
-    institution: German Primate Center
-    year: May 2017 - Sep 2021
-  - course: MSc in Neuroscience
-    institution: University of Göttingen
-    year: Sep 2015 - Apr 2017
-  - course: Medical Degree
-    institution: Aristotle University of Thessaloniki
-    year: Sep 2009 - Jul 2015
-email: "n.sirmpilatze@ucl.ac.uk"
+  - course: M.A. in Geography (Spatial Analysis)
+    institution: Korea University
+    year: Mar 2020 - Aug 2022
+  - course: B.A. in Geography
+    institution: Kongju National University
+    year: Mar 2016 - Feb 2020
+email: "jge318831@gmail.com"
 interests:
-- Neuroscience
-- Neuroimaging
-- Anesthesia
-- Open science
-- Software
-name: Nikoloz Sirmpilatze
-organizations:
-- name: Sainsbury Wellcome Centre
-  url: "https://www.sainsburywellcome.org/web/"
-- name: Gatsby Computational Neuroscience Unit
-  url: "https://www.ucl.ac.uk/gatsby/"
-- name: University College London (UCL)
-  url: "https://www.ucl.ac.uk/"
-role: Research Software Engineer
+  - Human mobility
+  - Air Pollution
+  - Spatial Modeling
+  - Spatio-temporal change
+name: Goeun Jung
+# organizations:
+# - name: Sainsbury Wellcome Centre
+#   url: "https://www.sainsburywellcome.org/web/"
+# - name: Gatsby Computational Neuroscience Unit
+#   url: "https://www.ucl.ac.uk/gatsby/"
+# - name: University College London (UCL)
+#   url: "https://www.ucl.ac.uk/"
+role: Researcher
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/niksirbi
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=vGwoc7oAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=BT0gEzEAAAAJ&hl=ko
 - icon: github
   icon_pack: fab
-  link: https://github.com/niksirbi
+  link: 
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+I am a research associate at the [National Cancer Center](https://www.ncc.re.kr/main.ncc?uri=english/sub02_Research/) in South Korea, specializing in spatial analysis within a fine dust research team. My work focuses on predicting personal exposure to air pollution and analyzing the spatio-temporal variability of air pollution at the individual level. What I find most compelling about GIS and spatial analysis is how they uncover hidden patterns and provide new perspectives on problems. While air pollution is a core aspect of my current research, I’m also interested in applying spatial methodologies to a wide range of topics, including urban and environmental issues.
 
-I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
+Before joining the National Cancer Center, I conducted research on predicting urban sprawl using probabilistic models based on cellular automata, and I analyzed changes in bus network clusters before and after COVID-19. Although my research topics are diverse, GIS and spatial analysis remain central to all my work. I’ve been passionate about GIS since joining my university’s research lab as a freshman, and I participated in a land cover modeling project as a junior. Over the past nine years, I have continuously developed my expertise and plan to keep building on it.
 
-I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
-
+Outside of work, I enjoy running and exploring scenic places, which helps me recharge and stay motivated.

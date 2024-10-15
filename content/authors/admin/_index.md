@@ -15,7 +15,7 @@ interests:
   - Human mobility
   - Air Pollution
   - Spatial Modeling
-  - Spatio-temporal change
+  - Spatio-temporal change_
 name: Goeun Jung
 # organizations:
 # - name: Sainsbury Wellcome Centre

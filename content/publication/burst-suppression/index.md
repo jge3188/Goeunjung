@@ -4,12 +4,12 @@ authors:
 - admin
 - Youngho Kim
 date: "2022-05-24T00:00:00Z"
-doi: "10.7554/eLife.74813"
+doi: "https://doi.org/10.25202/JAKG.10.1.9"
 featured: true
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only: false
 # links:
 # - icon: github
 #   icon_pack: fab
@@ -23,8 +23,8 @@ image:
 #   url: ttps://doi.org/10.5281/zenodo.55653https://youtu.be/MoJ3HNUT4Lc
 projects:
 - 
-publication: "eLife"
-publication_short: "eLife"
+publication: "JAKG (Journal of the Association of Korean Geographers)"
+publication_short: "JAKG (Journal of the Association of Korean Geographers)"
 publication_types: 
 - "2"
 publishDate: "2021-04-24T00:00:00Z"

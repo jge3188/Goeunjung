@@ -5,21 +5,21 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon:
-  icon_pack:
+- icon: ""
+  icon_pack: ""
   name: Website
   url: https://www.notion.so/nccairhealth/dd96d41fbc8547f3882ac8895a0d8573
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
 - name: Data
-  url: 
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-slides:
+  url: ""
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
+slides: ""
 summary: Geospatial Data Pipeline Project
 tags:
 - research

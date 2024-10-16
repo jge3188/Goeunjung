@@ -5,25 +5,24 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon:
-  icon_pack:
-  name: 
-  url: 
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-- icon:
-  icon_pack:
-  name: 
-  url: 
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-slides:
-summary: 'Investigating the Relationship between Personal PM Exposure and Time-Activity Diares and GPS Data
-          Analyzing Spatial Variability of Personal PM Exposure in Microenvironments'
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
+slides: ""
+summary: 'Investigating the Relationship between Personal PM Exposure and Time-Activity Diares and GPS Data, Analyzing Spatial Variability of Personal PM Exposure in Microenvironments'
 
 tags:
 - collaborative

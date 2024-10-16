@@ -3,21 +3,21 @@ date: "2018-05-29T00:00:00Z"
 external_link: ""
 image:
   caption:
-  focal_point: 
+  focal_point: smart
 links:
-- icon:
-  icon_pack:
-  name: 
-  url: 
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-slides:
+- icon:  ""
+  icon_pack: ""
+  name:  ""
+  url:  ""
+- icon:  ""
+  icon_pack:  ""
+  name:  ""
+  url:  ""
+- icon:  ""
+  icon_pack:  ""
+  name:  ""
+  url:  ""
+slides:  ""
 summary: covid19 crawling
 tags:
 - collaborative

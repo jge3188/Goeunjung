@@ -5,11 +5,11 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-slides:
+- icon:  ""
+  icon_pack:  ""
+  name:  ""
+  url:  ""
+slides: ""
 summary: Network Analysis Using Road Networks - Accessible Areas Within 30 Minutes to Emergency Medical Facilities
 
 tags:

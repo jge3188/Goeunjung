@@ -5,18 +5,18 @@ image:
   caption: " "
   focal_point: Smart
 links:
-- icon:
-  icon_pack:
-  name: 
-  url: 
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
+- icon:  ""
+  icon_pack: ""
+  name:  ""
+  url:  ""
+- icon:  ""
+  icon_pack:  ""
+  name:  ""
+  url:  ""
+- icon:  ""
+  icon_pack:  ""
+  name:  ""
+  url:  ""
 summary: Land Cover Change Prediction Modeling (Korea Research Foundation)
 tags:
 - collaborative

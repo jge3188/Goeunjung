@@ -11,7 +11,7 @@ image:
   caption:
   focal_point: ""
   preview_only: false
-projects:
+projects: neurizons
 publication: 'Korean Cartographic Association'
 publication_short: "Korean Cartographic Association"
 publication_types:

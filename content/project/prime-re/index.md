@@ -1,5 +1,5 @@
 ---
-date: "2019-09-07T00:00:00Z"
+date: "2017"
 external_link:
 image:
   caption: " "
@@ -7,21 +7,21 @@ image:
 links:
 - icon:
   icon_pack:
-  name: Website
-  url: https://prime-re.github.io/
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/PRIME-RE/prime-re.github.io
-- icon: twitter
-  icon_pack: fab
-  name: Twitter
-  url: https://twitter.com/PRIMatE_RE
-summary: PRIME-RE (PRIMEatE Resource Exchange) aims to be the primary exchange platform for non-human primate neuroimaging data resources.
+  name: 
+  url: 
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
+summary: Land Cover Change Prediction Modeling (Korea Research Foundation)
 tags:
 - collaborative
 - include
-title: PRIME-RE
+title: Land Cover Change Prediction Modeling (Korea Research Foundation)
 url_code: ""
 url_pdf: ""
 url_slides: "" 
@@ -29,4 +29,9 @@ url_video: ""
 ---
 
 ## Summary
-The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE aims to provide an overview of the main difficulties and curate a collection of solutions that currently exist within the broader NHP-MRI community for specific processing steps that are commonly performed on NHP MRI data. Since this is a community effort, we strongly encourage you to contribute your workflows and pipelines. PRIME-RE is maintained by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html).
+Research Assistant: 
+	Analysis of Land Cover Change by Administrative Region using LUCK2018 Model
+	Literature Review on Land Cover Changes Modeling
+	Construct of a Databased and Thematic Maps for Land Cover Change Modeling
+	Analysis of the Impact of Spatial Data Weighting on Land Cover Change Prediction (Presented at the 2018 Fall Conference of The Korean Association of Geographic Information Studies)
+

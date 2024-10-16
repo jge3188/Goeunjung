@@ -18,6 +18,8 @@ image:
   focal_point: ""
   preview_only: false
 projects:
+- medetomidine
+- BS
 publication: ''
 publication_short: ""
 publication_types:

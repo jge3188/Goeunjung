@@ -3,22 +3,22 @@ date: "2018-05-29T00:00:00Z"
 external_link: ""
 image:
   caption:
-  focal_point: Smart
+  focal_point: 
 links:
 - icon:
   icon_pack:
-  name: Website
-  url: https://prime-re.github.io/
-- icon: twitter
-  icon_pack: fab
-  name: Twitter
-  url: https://www.twitter.com/Neurizons
-- icon: facebook
-  icon_pack: fab
-  name: Facebook
-  url: https://www.facebook.com/Neurizons/
+  name: 
+  url: 
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
 slides:
-summary: Neurizons is a biennial neuroscience conference organized by students of the IMPRS for Neurosciences in Göttingen, Germany.
+summary: covid19 crawling
 tags:
 - collaborative
 - include

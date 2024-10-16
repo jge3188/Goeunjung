@@ -1,19 +1,20 @@
 ---
-date: "2019-10-19T00:00:00Z"
+date: "2019-00-09T00:00:00Z"
 external_link: ""
 image:
   caption:
   focal_point: Smart
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/niksirbi/PyRat_fMRI
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
 slides:
-summary: A GUI app made with python's tkinter for a quick-and-dirty computation of fMRI activation maps.
+summary: Network Analysis Using Road Networks - Accessible Areas Within 30 Minutes to Emergency Medical Facilities
+
 tags:
-- side
-title: PyRat fMRI
+- 
+title: Accessible Areas Within 30 Minutes to Emergency Medical Facilities
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -21,4 +22,4 @@ url_video: ""
 ---
 
 ## Summary
-PyRat_fMRI can get you from a 4D NIFTI file to an activation map in under 1 minute. It is meant for a quick inspection of activation maps, **NOT** for formal analysis. See the [repository](https://github.com/niksirbi/PyRat_fMRI) for more details.
+The analysis focused on the areas and population of elderly residents within a 30-minute travel time to emergency medical facilities. Population data were derived from 500-meter grid cells, and the travel time from the centroid of each grid cell to the nearest emergency medical facility was calculated. A high-resolution road network was constructed and used to determine the least-cost paths from multiple origins to multiple destinations along the network. The results show that, within Chungcheongnam-do, the area accessible to elderly care facilities within a 20-minute drive covers 839,575 hectares, accounting for 96.55% of the total area of Seosan City. Additionally, the population accessible to elderly care facilities within a 20-minute drive totals 398,045, representing 99.28% of the entire population

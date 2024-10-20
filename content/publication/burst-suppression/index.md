@@ -7,22 +7,10 @@ date: "2022-05-24T00:00:00Z"
 doi: "https://doi.org/10.25202/JAKG.10.1.9"
 featured: true
 image:
-  caption: ''
+  caption: 
   focal_point: ""
   preview_only: flase
-# links:
-# - icon: github
-#   icon_pack: fab
-#   name: Code
-#   url: https://github.com/niksirbi/pcarpet
-# - name: Data
-#   url: h05
-# - icon: youtube
-#   icon_pack: fab
-#   name: Talk
-#   url: ttps://doi.org/10.5281/zenodo.55653https://youtu.be/MoJ3HNUT4Lc
 projects:
-- 
 publication: "JAKG (Journal of the Association of Korean Geographers)"
 publication_short: "JAKG"
 publication_types: 

@@ -22,11 +22,11 @@ links:
   name: Twitter
   url: https://twitter.com/afids_project
 slides:
-summary: "A standardized framework for evaluating anatomical correspondence between primate brains"
+summary: "This project aims to predict air pollution concentrations at locations across South Korea where direct measurements are unavailable."
 tags:
 - collaborative
 - include
-title: "AFIDs-macaca"
+title: "Air Pollution Predictive Modeling"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -34,4 +34,6 @@ url_video: ""
 ---
 
 ## Summary
-Establishing accurate spatial correspondences across brains is a fundamental step in neuroscience research. Current methods use sophisticated algorithms to perform registrations between brains, providing a mapping between modalities, subjects, template spaces, and even different species. However, the accuracy of these mappings varies widely depending on factors such as the image quality, the registration algorithm, and its parameters. To quantify registration accuracy, a point-based set of 32 anatomical landmarks, termed anatomical fiducials (**AFIDs**), has recently been described and validated for human magnetic resonance imaging (MRI) datasets ([Lau et al., 2019](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.24693)). The **AFIDs-macaca** project seeks to bridge the gap between human and animal models in neuroscience research by extending the **AFIDs** framework to a widely used non-human primate model, the macaques.
+This project aims to predict air pollution concentrations at locations across South Korea where direct measurements are unavailable. Using the **Universal Kriging** (UK) model, we estimate the annual concentrations of key air pollutants—**PM10, PM2.5, O3, and NO2**. The UK model leverages observed pollutant concentrations at monitoring sites and incorporates spatial and environmental characteristics represented by geographic variables, along with spatial autocorrelation, to predict concentrations at unmonitored locations.
+The observational data consists of annual air pollution measurements collected from air quality monitoring stations nationwide. Additionally, the model integrates 320 geographic variables, derived from spatial data processing pipelines, which capture factors related to air pollution levels, such as road networks, elevation, population density, land use, and vegetation index (NDVI). To manage the high dimensionality of these variables, we employ **Partial Least Squares (PLS)** regression to reduce the dataset to 2–3 primary predictive components, which serve as inputs for the UK model. This dimensionality reduction optimizes model performance by focusing on the most relevant predictors.
+In many cases, our team utilizes this model to estimate air pollution exposure for cohort study participants based on their residential locations. This process involves an initial geocoding step, where participants' address information is converted into geographic coordinates. Subsequently, approximately 320 geographic variables are calculated for each residential location. These variables are then reduced to key components via PLS, which are used as inputs in the UK model to estimate pollutant concentrations for individual residences. Through this project, we enhance the precision of individual exposure assessments by estimating air pollution concentrations directly at individuals' residential locations rather than relying on the concentrations from nearby monitoring sites. This approach enables more accurate evaluations of personal exposure and contributes to more precise health effect assessments related to air pollution exposure.

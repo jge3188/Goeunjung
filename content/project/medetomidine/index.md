@@ -14,11 +14,11 @@ links:
   name: Data
   url: https://openneuro.org/datasets/ds001981
 slides:
-summary: Work done for my MSc thesis and during the early stages of my PhD.
+summary: This project aims to develop an algorithm that can accurately predict land cover changes across large regions that include both urban and rural areas. 
 tags:
 - research
 - include
-title: Temporal stability of fMRI in medetomidine-anesthetized rats
+title: Land Cover Change Prediction Modeling
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -26,4 +26,6 @@ url_video: ""
 ---
 
 ## Abstract
-Medetomidine has become a popular choice for anesthetizing rats during long-lasting sessions of blood-oxygen-level dependent (BOLD) functional magnetic resonance imaging (fMRI). Despite this, it has not yet been thoroughly established how commonly reported fMRI readouts evolve over several hours of medetomidine anesthesia and how they are affected by the precise timing, dose, and route of administration. We used four different protocols of medetomidine administration to anesthetize rats for up to six hours and repeatedly evaluated somatosensory stimulus-evoked BOLD responses and resting state functional connectivity. We found that the temporal evolution of fMRI readouts strongly depended on the method of administration. Intravenous administration of a medetomidine bolus (0.05 mg/kg), combined with a subsequent continuous infusion (0.1 mg/kg/h), led to temporally stable measures of stimulus-evoked activity and functional connectivity throughout the anesthesia. Deviating from the above protocol—by omitting the bolus, lowering the medetomidine dose, or using the subcutaneous route—compromised the stability of these measures in the initial two-hour period. We conclude that both an appropriate protocol of medetomidine administration and a suitable timing of fMRI experiments are crucial for obtaining consistent results. These factors should be considered for the design and interpretation of future rat fMRI studies.
+This project aims to develop an algorithm that can accurately predict land cover changes across large regions that include both urban and rural areas. Existing land cover prediction models are typically tailored to urban characteristics, which limits their effectiveness in regions where urban and rural areas are mixed. To address this, our project seeks to create a new predictive algorithm that incorporates the unique features of both urban and rural environments.
+The first step involves using multi-temporal satellite imagery to create land cover maps at various time points. We then perform a time-series analysis to identify patterns of land cover change over time. Based on this data, we are developing the BPLE (Bayesian-based Probability Land cover Estimation) algorithm, which is designed to detect and predict land cover changes while accounting for the different characteristics of urban and rural regions. This algorithm applies Bayesian probability theory to capture the spatiotemporal regularities in land cover change, enabling us to forecast future changes.
+To validate the accuracy and utility of our model, we will compare its predictions with actual observed changes in both urban and rural areas. By providing a precise tool for predicting land cover change, this project aims to support a range of applications, including national land management, natural disaster risk assessment, and water cycle management. The resulting model will offer a versatile approach for studying and managing large, mixed urban-rural regions.

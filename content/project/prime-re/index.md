@@ -17,11 +17,11 @@ links:
   icon_pack: fab
   name: Twitter
   url: https://twitter.com/PRIMatE_RE
-summary: PRIME-RE (PRIMEatE Resource Exchange) aims to be the primary exchange platform for non-human primate neuroimaging data resources.
+summary: This project analyzed accessibility to essential Social Overhead Capital (SOC) facilities for citizens by examining travel times using a road network-based approach. 
 tags:
 - collaborative
 - include
-title: PRIME-RE
+title: Network analysis for Social Overhead Capital (SOC) facilities
 url_code: ""
 url_pdf: ""
 url_slides: "" 
@@ -29,4 +29,5 @@ url_video: ""
 ---
 
 ## Summary
-The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE aims to provide an overview of the main difficulties and curate a collection of solutions that currently exist within the broader NHP-MRI community for specific processing steps that are commonly performed on NHP MRI data. Since this is a community effort, we strongly encourage you to contribute your workflows and pipelines. PRIME-RE is maintained by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html).
+This project analyzed accessibility to essential Social Overhead Capital (SOC) facilities for citizens by examining travel times using a road network-based approach. Social Overhead Capital (SOC) refers to fundamental infrastructure and public services required for daily life, including education, healthcare, and parks. Assessing the minimum travel time to reach these SOC facilities is crucial for addressing infrastructure disparities, enhancing convenience, and promoting social equity and integration.
+Focusing on South Chungcheong Province in South Korea, this study evaluated the population and area that could reach each SOC facility within the designated minimum travel time (threshold time). Network analysis was conducted using an OD Cost Matrix, and travel times to each SOC facility were measured from centroids of population 500*500 grid, based on a high-resolution road network.

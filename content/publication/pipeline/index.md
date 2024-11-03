@@ -10,9 +10,6 @@ authors:
 - Sun-Young Kim
 date: "2024-07-01"
 doi:
-links:
-- name:
-  url:
 featured: true
 image:
   caption:

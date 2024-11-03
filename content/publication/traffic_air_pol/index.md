@@ -10,7 +10,7 @@ authors:
 - Minjun Park
 - Sun-Young KIM
 
-date: ""
+date: "2022-01-01"
 doi: ""
 featured: true
 image:

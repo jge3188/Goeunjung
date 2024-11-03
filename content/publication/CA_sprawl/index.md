@@ -3,7 +3,7 @@ abstract: This study aims to predict the spatio-temporal change of the urban spr
 authors:
 - admin
 - Youngho Kim
-date: "2022-05-24T00:00:00Z"
+date: "2021-05-24T00:00:00Z"
 doi: "https://doi.org/10.25202/JAKG.10.1.9"
 featured: true
 image:

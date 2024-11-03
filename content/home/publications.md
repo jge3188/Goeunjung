@@ -2,7 +2,7 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
@@ -11,37 +11,32 @@ title = "Publications"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. publication.
+  # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 10 
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
 
-  # Filter toolbar (optional).
-  filter_default = 0
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
 
-  [[content.filter_button]]
-    name = "All"
-    tag = "include"
-
-  [[content.filter_button]]
-    name = "My research"
-    tag = "research"
-
-  [[content.filter_button]]
-    name = "Collaborative"
-    tag = "collaborative"
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
   
 [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
-
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   5 = Showcase
-  view = 2  # 변경: Projects와 동일한 view 스타일 사용
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  #   4 = Citation (publication only)
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.

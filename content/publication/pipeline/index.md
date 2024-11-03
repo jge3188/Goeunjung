@@ -9,10 +9,10 @@ authors:
 - Dongook Son
 - Sun-Young Kim
 date: "2024-07-01"
-doi: ""
+doi:
 links:
 - name:
-  url: 
+  url:
 featured: true
 image:
   caption:
@@ -26,7 +26,7 @@ publication_types:
 - "2"
 publishDate: ""
 slides:
-summary: 
+summary:
 tags:
 - 
 title: '[Accepted for Publication] Geospatial Data Pipeline to Study the Health Effects of Environments -Limitations and Solutions-'

@@ -13,7 +13,7 @@ authors:
 - Miji Kim
 - Sun-Young Kim
 date: "2024-10-01"
-doi: ""
+doi:
 links:
 - name:
   url: 
@@ -24,13 +24,13 @@ image:
   preview_only: false
 projects:
 - 
-publication: 
-publication_short: 
+publication:
+publication_short:
 publication_types:
 - "2"
-publishDate: ""
+publishDate:
 slides:
-summary: 
+summary:
 tags:
 - 
 title: '[Manuscript in Preparation] Analyzing Personal PM2.5 Exposure Through APT (Activity-Place-Transport) varialbes: Integration of Time Activity Patterns, Place, and Transportation'

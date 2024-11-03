@@ -21,7 +21,7 @@
             {{ $pub_types := partial "functions/get_pub_types" $ }}
             {{ range $index, $pubtype := .Params.publication_types }}
             <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ . | urlize }}">
-              {{ index $pub_types (int .) }}
+              {{ $pub_name }}
             </a>
             {{ end }}
           </div>

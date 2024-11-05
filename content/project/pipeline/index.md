@@ -5,24 +5,13 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon:
-  icon_pack:
-  name: Publication
-  url: https://elifesciences.org/articles/74813
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/niksirbi/pcarpet
-- name: Data
-  url: https://doi.org/10.5281/zenodo.5565305
-- icon: youtube
-  icon_pack: fab
-  name: Talk
-  url: https://youtu.be/MoJ3HNUT4Lc
+- name: Website
+  url: https://www.notion.so/nccairhealth/Home-6adb6f5afa8d491d9280b2d3509ef662
+
 slides:
 summary: This project establishes an automated geospatial data pipeline to streamline data acquisition, processing, and analysis, enhancing accessibility and reproducibility for comprehensive spatial studies on environmental and health impacts.
 tags:
-- NCC
+- All
 - Geospatial Data Pipeline
 - Geospatial Data
 - Automation

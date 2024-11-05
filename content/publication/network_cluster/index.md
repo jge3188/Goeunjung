@@ -23,6 +23,7 @@ tags:
 - COVID-19
 - Spatio-temporal
 - Network Analysis
+- Super Computer
 - Bus Network Cluster
 - Big Data
 - Getis and Ord statistic

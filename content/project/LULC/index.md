@@ -5,18 +5,10 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon:
-  icon_pack:
-  name: Publication
-  url: https://www.nature.com/articles/s41598-019-53144-y
-- icon:
-  icon_pack:
-  name: Data
-  url: https://openneuro.org/datasets/ds001981
 slides:
 summary: This project aims to develop an algorithm that can accurately predict land cover changes across large regions that include both urban and rural areas. 
 tags:
-- BA
+- All
 - Land Use and Land Cover
 - Prediction
 - Modeling

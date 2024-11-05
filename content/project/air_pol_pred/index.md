@@ -5,26 +5,10 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon:
-  icon_pack:
-  name:
-  url:
-- icon:
-  icon_pack:
-  name:
-  url:
-- icon:
-  icon_pack:
-  name:
-  url:
-- icon:
-  icon_pack:
-  name:
-  url:
 slides:
 summary: "This project aims to predict air pollution concentrations at locations across South Korea where direct measurements are unavailable."
 tags:
-- NCC
+- All
 - Air Pollution
 - Prediction
 - Modeling

@@ -5,23 +5,11 @@ image:
   caption: " "
   focal_point: Smart
 links:
-- icon:
-  icon_pack:
-  name: Website
-  url: https://prime-re.github.io/
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/PRIME-RE/prime-re.github.io
-- icon: twitter
-  icon_pack: fab
-  name: Twitter
-  url: https://twitter.com/PRIMatE_RE
 summary: This project analyzed accessibility to essential Social Overhead Capital (SOC) facilities for citizens by examining travel times using a road network-based approach. 
 tags:
-- MA
-- BA
+- All
 - Network Analysis
+- accessibility
 - SOC
 title: Network analysis for Social Overhead Capital (SOC) facilities
 url_code: ""

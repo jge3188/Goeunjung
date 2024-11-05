@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "NCC"
-    tag = "NCC"
+    name = "ALL"
+    tag = "All"
   
-  [[content.filter_button]]
-    name = "Master"
-    tag = "MA"
+#  [[content.filter_button]]
+#    name = 
+#    tag = 
   
-  [[content.filter_button]]
-    name = "Bachelor"
-    tag = "BA"
+#  [[content.filter_button]]
+#    name = "Bachelor"
+#    tag = "BA"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

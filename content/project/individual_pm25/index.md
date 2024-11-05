@@ -5,17 +5,9 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/PRIME-RE/RheMAP
-- icon:
-  icon_pack:
-  name: Data
-  url: https://zenodo.org/record/3668510
 summary: Investigating the Relationship between Personal PM Exposure and Time-Activity Diares and GPS Data and Analyzing Spatial Variability of Personal PM Exposure in Microenvironments 
 tags:
-- NCC
+- All
 - Individual Exposure
 - Personal Exposure
 - Air Pollution

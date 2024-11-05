@@ -13,4 +13,4 @@ title = "About me"
 author = "admin"
 +++
 [advanced]
-css_style = "font-size: 0.9rem;"
+css_style = "font-size: 0.7rem;"

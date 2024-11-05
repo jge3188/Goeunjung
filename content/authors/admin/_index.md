@@ -52,4 +52,6 @@ Before joining the National Cancer Center, I conducted research on predicting ur
 
 Outside of work, I enjoy running and exploring scenic places, which helps me recharge and stay motivated.
 
-**[Download CV](/files/cv.pdf)** 
+button:
+  text: Download CV
+  url: files/cv.pdf

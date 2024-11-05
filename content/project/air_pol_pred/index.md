@@ -8,7 +8,6 @@ links:
 slides:
 summary: "This project aims to predict air pollution concentrations at locations across South Korea where direct measurements are unavailable."
 tags:
-- All
 - Air Pollution
 - Prediction
 - Modeling

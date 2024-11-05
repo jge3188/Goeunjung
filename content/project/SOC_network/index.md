@@ -7,7 +7,6 @@ image:
 links:
 summary: This project analyzed accessibility to essential Social Overhead Capital (SOC) facilities for citizens by examining travel times using a road network-based approach. 
 tags:
-- All
 - Network Analysis
 - accessibility
 - SOC

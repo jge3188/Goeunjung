@@ -8,7 +8,6 @@ links:
 slides:
 summary: This project aims to develop an algorithm that can accurately predict land cover changes across large regions that include both urban and rural areas. 
 tags:
-- All
 - Land Use and Land Cover
 - Prediction
 - Modeling

@@ -12,5 +12,4 @@ title = "About me"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
-[advanced]
-css_style = "font-size: 0.7rem;"
+

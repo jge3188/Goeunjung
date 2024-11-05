@@ -22,8 +22,11 @@ links:
 slides:
 summary: This project establishes an automated geospatial data pipeline to streamline data acquisition, processing, and analysis, enhancing accessibility and reproducibility for comprehensive spatial studies on environmental and health impacts.
 tags:
-- research
-- include
+- NCC
+- Geospatial Data Pipeline
+- Geospatial Data
+- Automation
+- Geographic Variables
 title: Geospatial Data Pipeline Construction
 url_code: ""
 url_pdf: ""

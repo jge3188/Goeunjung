@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-#  [[content.filter_button]]
-#    name = "All"
-#    tag = "include"
+  [[content.filter_button]]
+    name = "NCC"
+    tag = "NCC"
   
-#  [[content.filter_button]]
-#    name = "My research"
-#    tag = "research"
+  [[content.filter_button]]
+    name = "Master"
+    tag = "MA"
   
-#  [[content.filter_button]]
-#    name = "Collaborative"
-#    tag = "collaborative"
+  [[content.filter_button]]
+    name = "Bachelor"
+    tag = "BA"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -19,7 +19,12 @@ publishDate: "2021-04-24T00:00:00Z"
 slides:
 summary: 
 tags:
-- published
+- Spatio-temporal
+- Sprawl
+- Modeling
+- Prediction
+- Cellular Automata
+- Automatic Rule Detection
 title : "Modeling of Spatio-temporal changes of Urban Sprawl in Jeju-island: Using CA (Cellular Automata) and ARD (Automatic Rule Detection)"
 url_code: ""
 url_dataset: ""

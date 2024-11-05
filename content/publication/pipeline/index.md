@@ -25,7 +25,10 @@ publishDate: ""
 slides:
 summary:
 tags:
-- 
+- Geospatial Data Pipeline
+- Geospatial Data
+- Automation
+- Geographic Variables
 title: '[Accepted for Publication] Geospatial Data Pipeline to Study the Health Effects of Environments -Limitations and Solutions-'
 url_code: ""
 url_dataset: ""

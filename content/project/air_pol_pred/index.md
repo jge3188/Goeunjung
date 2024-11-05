@@ -7,25 +7,29 @@ image:
 links:
 - icon:
   icon_pack:
-  name: Website
-  url: https://afids.github.io/afids-protocol/
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/afids/afids-macaca
+  name:
+  url:
 - icon:
   icon_pack:
-  name: Poster
-  url: https://afids.github.io/afids-macaca-ohbm2021/
-- icon: twitter
-  icon_pack: fab
-  name: Twitter
-  url: https://twitter.com/afids_project
+  name:
+  url:
+- icon:
+  icon_pack:
+  name:
+  url:
+- icon:
+  icon_pack:
+  name:
+  url:
 slides:
 summary: "This project aims to predict air pollution concentrations at locations across South Korea where direct measurements are unavailable."
 tags:
-- collaborative
-- include
+- NCC
+- Air Pollution
+- Prediction
+- Modeling
+- Universal Kriging
+- Geospatial Data Pipeline
 title: "Air Pollution Predictive Modeling"
 url_code: ""
 url_pdf: ""

@@ -29,7 +29,12 @@ publishDate:
 slides:
 summary:
 tags:
-- 
+- Personal Exposure
+- Individual Exposure
+- Time Activity Pattern
+- Spatio-temporal
+- Air Pollution
+
 title: '[Manuscript in Preparation] Analyzing Personal PM2.5 Exposure Through APT (Activity-Place-Transport) varialbes: Integration of Time Activity Patterns, Place, and Transportation'
 url_code: ""
 url_dataset: ""

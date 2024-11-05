@@ -20,7 +20,12 @@ publishDate: "2022-04-02T00:00:00Z"
 slides:
 summary:
 tags:
-- published
+- COVID-19
+- Spatio-temporal
+- Network Analysis
+- Bus Network Cluster
+- Big Data
+- Getis and Ord statistic
 title: "A Spatio-temporal Pattern Analysis of Seoul Bus Use After COVID-19 Outbreaks Using Big Data-based Network Cluster Analysis"
 url_code: ""
 url_dataset: ""

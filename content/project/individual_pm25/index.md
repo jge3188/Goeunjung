@@ -15,8 +15,13 @@ links:
   url: https://zenodo.org/record/3668510
 summary: Investigating the Relationship between Personal PM Exposure and Time-Activity Diares and GPS Data and Analyzing Spatial Variability of Personal PM Exposure in Microenvironments 
 tags:
-- collaborative
-- include
+- NCC
+- Individual Exposure
+- Personal Exposure
+- Air Pollution
+- Microenvironments
+- Spatial Variability
+- GPS
 title: Development of Methodologies for Assessing and Predicting Individual Level PM2.5 Exposure
 url_code: ""
 url_pdf: ""

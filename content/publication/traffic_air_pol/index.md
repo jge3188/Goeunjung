@@ -26,6 +26,12 @@ publishDate: ""
 slides:
 summary:
 tags:
+- Air Pollution
+- Traffic
+- Traffic data
+- VKT
+- Road Density
+- Prediction
 title: "[Manuscript in Preparation] Correlation of Air Pollution and Traffic Volume: Comparison between Road Density and Traffic Volume Estimates"
 url_code: ""
 url_dataset: ""

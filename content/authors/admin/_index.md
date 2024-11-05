@@ -15,7 +15,7 @@ interests:
   - Human mobility
   - Air Pollution
   - Spatial Modeling
-  - Spatio-temporal change_
+  - Spatio-temporal change
 name: Goeun Jung
 # organizations:
 # - name: Sainsbury Wellcome Centre
@@ -26,15 +26,19 @@ name: Goeun Jung
 #   url: "https://www.ucl.ac.uk/"
 role: Researcher
 social:
-- icon: twitter
-  icon_pack: fab
-  link: 
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:jge318831@gmail.com'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=BT0gEzEAAAAJ&hl=ko
-- icon: github
+  link: https://scholar.google.co.kr/citations?user=BT0gEzEAAAAJ&hl=ko
+- icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/goeun-jung-3b4954212/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-3757-6252
+
 superuser: true
 user_groups:
 - Researchers
@@ -46,3 +50,5 @@ I am a research associate at the [National Cancer Center](https://www.ncc.re.kr/
 Before joining the National Cancer Center, I conducted research on predicting urban sprawl using probabilistic models based on cellular automata, and I analyzed changes in bus network clusters before and after COVID-19. Although my research topics are diverse, GIS and spatial analysis remain central to all my work. I’ve been passionate about GIS since joining my university’s research lab as a freshman, and I participated in a land cover modeling project as a junior. Over the past nine years, I have continuously developed my expertise and plan to keep building on it.
 
 Outside of work, I enjoy running and exploring scenic places, which helps me recharge and stay motivated.
+
+[Download CV](/files/cv.pdf){: .btn .btn-primary }

@@ -8,8 +8,8 @@ authors:
 - admin
 - Dongook Son
 - Sun-Young Kim
-date: "2024-07-01"
-doi:
+date: "2024-09-30"
+doi: "https://koreascience.kr/article/JAKO202429840885679.page"
 featured: true
 image:
   caption:

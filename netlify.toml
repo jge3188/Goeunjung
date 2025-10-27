@@ -1,0 +1,10 @@
+# /netlify.toml  (repo root)
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION      = "0.127.0"   # 테마가 기대하는 구버전으로 고정
+  HUGO_EXTENDED     = "true"
+  HUGO_ENV          = "production"
+  HUGO_ENABLEGITINFO= "true"

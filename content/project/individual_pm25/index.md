@@ -21,6 +21,13 @@ url_video: ""
 ---
 
 ## Summary
+
+![](featured.png)
+![](featured2.png)
+![](featured3.png)
+![](featured4.png)
+
+
 This project aims to develop a methodology for assessing and predicting individual exposure to fine particulate matter (PM2.5) across outdoor, indoor, and personal environments, to better evaluate the health impacts of PM2.5 on elderly populations within cohorts (KoGES, KFACS). Individual PM2.5 exposure is categorized into outdoor, indoor, and personal exposure, each with distinct sources and spatiotemporal characteristics. Correlations among these domains have been reported as relatively low, indicating the need for independent yet integrative approaches.
 
 Sampling was conducted for approximately 60 older adults across various households, and PM2.5 concentrations were measured in outdoor, indoor, and personal environments over four seasons using RTI’s MicroPEM device with gravimetric corrections. Participants carried the device for about five days per season and recorded hourly information on activities, visited locations, and transportation use. A GPS logger was attached to the MicroPEM to track movement trajectories.

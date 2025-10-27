@@ -56,8 +56,7 @@ user_groups:
 draft: false
 
 ---
-
-<span style="font-size:0.65rem; line-height:1.45;">
+<span style="font-size:0.65rem !important; line-height:1.45 !important;">
 
 I am a research associate at the [National Cancer Center](https://www.ncc.re.kr/main.ncc?uri=english/sub02_Research) in South Korea, specializing in spatial analysis within a fine dust research team. My work focuses on predicting personal exposure to air pollution and analyzing the spatio-temporal variability of air pollution at the individual level. What I find most compelling about GIS and spatial analysis is how they uncover hidden patterns and provide new perspectives on problems. While air pollution is a core aspect of my current research, I’m also interested in applying spatial methodologies to a wide range of topics, including urban and environmental issues.
 

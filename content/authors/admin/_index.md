@@ -1,30 +1,11 @@
 ---
-authors:
-- admin
-bio: 
-education:
-  courses:
-  - course: M.A. in Geography (Spatial Analysis)
-    institution: Korea University
-    year: Mar 2020 - Aug 2022
-  - course: B.A. in Geography
-    institution: Kongju National University
-    year: Mar 2016 - Feb 2020
+title: "Goeun Jung"
+slug: "admin"
+name: "Goeun Jung"
+role: "Researcher"
+superuser: true
+
 email: "jge318831@gmail.com"
-interests:
-  - Human mobility
-  - Air Pollution
-  - Spatial Modeling
-  - Spatio-temporal change
-name: Goeun Jung
-# organizations:
-# - name: Sainsbury Wellcome Centre
-#   url: "https://www.sainsburywellcome.org/web/"
-# - name: Gatsby Computational Neuroscience Unit
-#   url: "https://www.ucl.ac.uk/gatsby/"
-# - name: University College London (UCL)
-#   url: "https://www.ucl.ac.uk/"
-role: Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,10 +20,38 @@ social:
   icon_pack: fab
   link: https://orcid.org/0000-0002-3757-6252
 
-superuser: true
+bio: 
+education:
+  courses:
+  - course: M.A. in Geography (Spatial Analysis)
+    institution: Korea University
+    year: Mar 2020 - Aug 2022
+  - course: B.A. in Geography
+    institution: Kongju National University
+    year: Mar 2016 - Feb 2020
+
+interests:
+  - Human mobility
+  - Air Pollution
+  - Spatial Modeling
+  - Spatio-temporal change
+
+
+# organizations:
+# - name: Sainsbury Wellcome Centre
+#   url: "https://www.sainsburywellcome.org/web/"
+# - name: Gatsby Computational Neuroscience Unit
+#   url: "https://www.ucl.ac.uk/gatsby/"
+# - name: University College London (UCL)
+#   url: "https://www.ucl.ac.uk/"
+
+
 user_groups:
 - Researchers
 - Visitors
+
+draft: false
+
 ---
 
 <div style="font-size:0.95rem; line-height:1.45;">

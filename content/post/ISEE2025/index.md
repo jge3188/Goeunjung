@@ -2,7 +2,7 @@
 authors:
 - admin
 categories: []
-date: "2023-00-03T00:00:00Z"
+date: "2025-08-17T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -12,12 +12,13 @@ projects: []
 subtitle: []
 summary: []
 tags: []
-title: 2023 ISEE in Taiwan
+title: 2025 ISES & ISEE in Atlanta
 ---
 
-![png](./featured.png)
+![png](./ucgis.png)
 
-2023 ISEE in Taiwan
+
+
 
 
 

@@ -2,7 +2,7 @@
 authors:
 - admin
 categories: []
-date: "2024-00-03T00:00:00Z"
+date: "2024-06-03T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -12,7 +12,7 @@ projects: []
 subtitle: []
 summary: []
 tags: []
-title: 2024 KAGIS+UCGIS
+title: 2024 KAGIS+UCGIS in Columbus
 ---
 
 ![png](./ucgis.png)

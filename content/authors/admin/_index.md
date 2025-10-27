@@ -1,7 +1,7 @@
 ---
 aliases:
   - /authors/authors/
-  
+
 title: "Goeun Jung"
 slug: "admin"
 name: "Goeun Jung"

@@ -8,7 +8,7 @@ authors:
 - Won Kyung Kim
 - Sun-Young Kim
 
-date: "2025"
+date: "2025-01-01"
 doi:
 featured: true
 image:

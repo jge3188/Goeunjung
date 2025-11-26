@@ -1,7 +1,6 @@
 ---
 abstract: This study investigates the influence of visited places and activities on personal exposure to PM2.5, considering seasonal and weekday/weekend variations. Data were collected from 54 senior participants in South Korea using GPS devices, personal air pollution monitors, and travel diaries during spring and summer of 2023. The study analyzed 13 activity-place-move variables and their association with PM2.5 exposure through stratified linear regression. Results revealed significant variability across season-day groups, with the highest explanatory power in spring weekends (R²=0.62). Notably, spending more time on "preparing meals at non-home-indoor" was linked to a reduction in PM2.5 exposure during weekends but not on weekdays. These findings highlight the need for targeted strategies to minimize personal air pollution exposure based on activity patterns and timing.
 
-
 authors:
 - admin
 - Won Kyung Kim

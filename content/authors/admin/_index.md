@@ -26,12 +26,16 @@ social:
 bio: 
 education:
   courses:
+  - course: Researcher
+    institution: National Cancer Center, South Korea
+    year: Sep 2022 - Present
   - course: M.A. in Geography (Spatial Analysis)
     institution: Korea University
     year: Mar 2020 - Aug 2022
   - course: B.A. in Geography
     institution: Kongju National University
     year: Mar 2016 - Feb 2020
+
 
 interests:
   - Human mobility
